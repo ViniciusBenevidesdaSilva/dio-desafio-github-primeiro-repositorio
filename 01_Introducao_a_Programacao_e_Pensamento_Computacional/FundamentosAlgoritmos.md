@@ -10,7 +10,7 @@
 **Instruções**: Palavras chaves de uma determinada linguagem que tem por finalidade comandar a tratativa de dados do computador.
 
 ## Estruturas
-1. **Condiocional**: Expressa uma suposição (dada essa condição satisfeita, executa-se uma operação) 
+1. **Condicional**: Expressa uma suposição (dada essa condição satisfeita, executa-se uma operação) 
 	- Simples, Composta ou Encadeada
 	- *Operadores relacionais*: Igual, diferente, maior, menor...
 	- *Operadores Lógicos*: E, Ou, Not
