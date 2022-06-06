@@ -7,7 +7,7 @@
 
 **Variável**: Tipo de estrutura mutável (que varia de valor), podendo ser sobreescrito. Recebe pode receber qualquer valor de um mesmo tipo constante (*tipagem estática*)
 
-> **Instruções** são as linguagens com palavras chaves de uma determinada linguagem que tem por finalidade comandar a tratativa de dados do computador.
+**Instruções**: Palavras chaves de uma determinada linguagem que tem por finalidade comandar a tratativa de dados do computador.
 
 ## Estruturas
 1. **Condiocional**: Expressa uma suposição (dada essa condição satisfeita, executa-se uma operação) 
@@ -17,7 +17,7 @@
 	
 2. **Repetição**: Controle de fluxo do programa que visa repetir certos comandos com uma condição de parada.
 
-> **Vetor**: Variável dimensionada com tamanho pré-fixado
+> **Vetor**: Variável dimensionada com tamanho pré-fixado  
 > **Matriz**: Variável  tabela organiada em linhas e colunas
 
 ---
