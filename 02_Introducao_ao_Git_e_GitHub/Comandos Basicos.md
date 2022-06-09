@@ -10,9 +10,9 @@
 
 - `git init`: Inicia um repositório do git em um diretório.
 
-- `git add`: Move os arquivos alterados para ==Staged==, ou seja, aguardando para serem *commitados*.
+- `git add`: Move os arquivos alterados para **Staged**, ou seja, aguardando para serem *commitados*.
 
-- `git commit -m "Mensagem"`: Envelopa todos os arquivos modificados que estão em *Staged* em um commit, salvando essa versão do projeto e retornando-os para o estado ==Unmodified==.
+- `git commit -m "Mensagem"`: Envelopa todos os arquivos modificados que estão em *Staged* em um commit, salvando essa versão do projeto e retornando-os para o estado **Unmodified**.
 
 - `git status`: Informa qual o estado atual dos arquivos *(quais estão Modified, Staged, Untracked, entre outros...)*.
 
