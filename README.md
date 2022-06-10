@@ -17,10 +17,10 @@ para compartilhar o progesso ao longo do *3º Decola Tech Avanade* :large_orange
 > ## Links Úteis :triangular_flag_on_post:
 >
 > 1. [LinkedIn Vinícius Benevides](https://www.linkedin.com/in/vinicius-benevides/ "Perfil com informações básicas, objetivos, cursos, além do Currículo Completo") :trophy:
-
+>
 > 2. [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax "Site com informações da sintaxe básica para Markdown, além de boas práticas de escrita") :books:
-
+>
 > 3. [Markdown Editor Online](https://stackedit.io/app# "Editor online de Markdown - What You See Is What You Get") :pencil2:
-
+>
 > 4. [Tutoriais w3schools](https://www.w3schools.com/ "Tutoriais de HTML and CSS, JavaScript, Programação, entre outros") :chart_with_upwards_trend:
 
