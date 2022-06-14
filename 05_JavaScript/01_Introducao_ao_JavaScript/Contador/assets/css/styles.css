@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(244, 251, 255);
+}
+
+
+h1{
+    color:rgb(97, 97, 97);
+}
+
+.aumentar, .diminuir {
+    height: 40px;
+    width: 40px;
+    border-radius: 30%;
+    border: 2px solid lightgreen;
+    background-color: rgb(237, 245, 234);
+    color: lightgreen;
+    font-size: 16pt;
+    font-weight: 600;
+}
+
+#contador{
+    padding-top: 20px;
+}
+
+.reiniciador{
+    height: 40px;
+    width: 120px;
+    border-radius: 20%;
+    
+    border: 2px solid lightcoral;
+    background-color: rgb(241, 214, 214);
+    color: lightcoral;
+
+    font-size: 16pt;
+    font-weight: 600;
+}
+
+#currentNumber {
+    margin: 0 20px;
+    font-size: 16pt;
+}
